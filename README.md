@@ -18,6 +18,7 @@
 2. Compile all Java files:
    ```bash
    javac *.java
+   
 3.Run the application:
    ```bash
    java Main
@@ -25,5 +26,6 @@
 4.Test Credentials
    ```bash
    User ID: user1 | PIN: 1111 (Initial Balance: $1000.00)
+
    ```bash
    User ID: user2 | PIN: 2222 (Initial Balance: $500.00)
