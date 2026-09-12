@@ -13,25 +13,17 @@
 ### Demo Video
 * Watch the project demonstration: [Insert your YouTube or Google Drive video link here]
 
-### How to Compile and Run4.Test Credentials 
-   User ID: user1 | PIN: 1111 (Initial Balance: $1000.00)
-   User ID: user2 | PIN: 2222 (Initial Balance: $500.00)
-
+### How to Compile and Run
 1. Open your terminal and navigate to the project directory.
 2. Compile all Java files:
    ```bash
    javac *.java
 3.Run the application:
-   ```bash
-   java Main
-4.How to Compile and Run
-Open your terminal and navigate to the project directory.
-Compile all Java files:
-javac *.java
-3.Run the application:
 
+Bash
 java Main
 
-4.Test Credentials
+Test Credentials
 User ID: user1 | PIN: 1111 (Initial Balance: $1000.00)
+
 User ID: user2 | PIN: 2222 (Initial Balance: $500.00)
