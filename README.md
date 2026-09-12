@@ -23,6 +23,6 @@
    java Main
 4. Test Credentials
    
-User ID: user1 | PIN: 1111 (Initial Balance: $1000.00)
+   User ID: user1 | PIN: 1111 (Initial Balance: $1000.00)
 
-User ID: user2 | PIN: 2222 (Initial Balance: $500.00)
+   User ID: user2 | PIN: 2222 (Initial Balance: $500.00)
